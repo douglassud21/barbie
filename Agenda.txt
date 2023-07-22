@@ -1,0 +1,53 @@
+DIA 24 Á 30 
+
+
+Segunda - HTML 30 MIN, CSS 1.30 HR, INGLÊS 30 MIN.
+
+Terça - HTML 30 MIN, CSS 1.30 HR, INGLÊS 30 MIN.
+
+Quarta - HTML 30 MIN, CSS 1.30 HR, INGLÊS 30 MIN.
+
+Quinta - HTML 30 MIN, CSS 1.30 HR, INGLÊS 30 MIN.
+
+Sexta - HTML 30 MIN, CSS 1.30 HR, INGLÊS 30 MIN.
+
+Sabado - HTML 30 MIN, CSS 1.30 HR, INGLÊS 30 MIN.
+
+Domingo - HTML 30 MIN, CSS 1.30 HR, INGLÊS 30 MIN.
+
+
+
+DIA 31 Á 6
+
+
+Segunda - HTML 15 MIN, CSS 1 HR, INGLÊS 30 MIN. Javascript 1 HR
+
+Terça - HTML 15 MIN, CSS 1 HR, INGLÊS 30 MIN. Javascript 1 HR
+
+Quarta - HTML 15 MIN, CSS 1 HR, INGLÊS 30 MIN. Javascript 1 HR
+
+Quinta - HTML 15 MIN, CSS 1 HR, INGLÊS 30 MIN. Javascript 1 HR
+
+Sexta - HTML 15 MIN, CSS 1 HR, INGLÊS 30 MIN. Javascript 1 HR
+
+Sabado - HTML 15 MIN, CSS 1 HR, INGLÊS 30 MIN. Javascript 1 HR
+
+Domingo - HTML 15 MIN, CSS 1 HR, INGLÊS 30 MIN. Javascript 1 HR
+
+
+DIA 7 Á 31
+
+
+Segunda - HTML 10 MIN, CSS 1 HR, INGLÊS 30 MIN. Javascript 1.30 HR
+
+Terça - HTML 10 MIN, CSS 1 HR, INGLÊS 30 MIN. Javascript 1.30 HR
+
+Quarta - HTML 10 MIN, CSS 1 HR, INGLÊS 30 MIN. Javascript 1.30 HR
+
+Quinta - HTML 10 MIN, CSS 1 HR, INGLÊS 30 MIN. Javascript 1.30 HR
+
+Sexta - HTML 10 MIN, CSS 1 HR, INGLÊS 30 MIN. Javascript 1.30 HR
+
+Sabado - HTML 10 MIN, CSS 1 HR, INGLÊS 30 MIN. Javascript 1.30 HR
+
+Domingo - HTML 10 MIN, CSS 1 HR, INGLÊS 30 MIN. Javascript 1.30 HR
